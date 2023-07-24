@@ -5,7 +5,7 @@ const InputForm = () => {
 	}
 	return (
 		<>
-			<div className=" flex justify-center">
+			<div className=" flex justify-center mb-5">
 				<form
 					onSubmit={handleSubmit}
 					action=""
